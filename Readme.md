@@ -1,3 +1,3 @@
 ## Projeto de compatibilidade de transplante de rins
 
-### criado por: Mariana 
+### criado por: Otávio 
